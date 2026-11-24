@@ -19,6 +19,8 @@ Plataforma web para **encontrar y reservar servicios para mascotas**: veterinari
 
 El trabajo siguió este recorrido: **diseño en Figma** (UI Kit, vistas de computador y teléfono) → **implementación web** de esas pantallas con HTML, CSS y JavaScript.
 
+La implementación web y la adaptación a teléfono se desarrollaron con asistencia de IA (Claude, de Anthropic) a partir de mi diseño en Figma. Yo definí las pantallas, requisitos, estilos y revisé el resultado.
+
 ## Funcionalidades
 
 - Inicio con categorías y proveedores destacados.
@@ -34,8 +36,6 @@ El trabajo siguió este recorrido: **diseño en Figma** (UI Kit, vistas de compu
 ## Tecnologías
 
 HTML5 · CSS3 (variables, grid, media queries) · JavaScript (ES6+, sin librerías) · `localStorage` para simular la base de datos · Figma para el diseño.
-
-La implementación web y la adaptación a teléfono se desarrollaron con asistencia de IA (Claude, de Anthropic) a partir de mi diseño en Figma. Yo definí las pantallas, requisitos, estilos y revisé el resultado.
 
 ## Cómo ejecutarlo
 
@@ -61,7 +61,7 @@ petcare-web/
 
 ### Logos
 
-Exporta los logos desde Figma y guárdalos en `assets/logos/` con estos nombres: `petspa.png`, `vetcare.png`, `paseosfelices.png`, `guarderiapeludos.png`. Si un archivo no existe, la página muestra las iniciales del proveedor.
+Logos exportados desde Figma guardados en `assets/logos/` con estos nombres: `petspa.png`, `vetcare.png`, `paseosfelices.png`, `guarderiapeludos.png`. 
 
 ## Limitaciones conocidas
 
