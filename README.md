@@ -65,7 +65,7 @@ Logos exportados desde Figma guardados en `assets/logos/` con estos nombres: `pe
 
 ## Limitaciones conocidas
 
-- **No hay backend**: usuarios y reservas viven en el `localStorage` del navegador y las contraseñas se guardan sin cifrar. Es solo una simulación para fines académicos; **no uses contraseñas reales**.
+- **No hay backend**: usuarios y reservas viven en el `localStorage` del navegador y las contraseñas se guardan sin cifrar. Es solo una simulación para fines académicos
 - Las notificaciones por correo están simuladas.
 - El panel del proveedor muestra todas las reservas de la demo, sin separar por negocio.
 
