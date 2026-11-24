@@ -4,7 +4,7 @@ Plataforma web para **encontrar y reservar servicios para mascotas**: veterinari
 
 > 🎓 **Proyecto académico.** PetCare se desarrolló como trabajo de la universidad dentro del programa de **Ingeniería de Software** (ver [Contexto académico](#contexto-académico)). No es un negocio real: los proveedores, precios y reseñas son datos de ejemplo.
 
-**Demo:** `[agrega aquí el enlace de GitHub Pages cuando lo publiques]`
+**Demo:** https://davidxever.github.io/petcare-web/ 
 
 ## Contexto académico
 
