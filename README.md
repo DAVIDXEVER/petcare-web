@@ -10,13 +10,13 @@ Plataforma web para **encontrar y reservar servicios para mascotas**: veterinari
 
 | | |
 |---|---|
-| Universidad | `[Nombre de la universidad]` |
-| Programa | `[Ingeniería de Software]` |
-| Materia / módulo | `[Nombre de la materia]` |
-| Periodo | `[Semestre y año]` |
-| Docente | `[Nombre del docente, opcional]` |
-| Tipo de trabajo | `[Individual / en grupo de N personas]` |
-| Mi rol | `[Ej.: diseño UI/UX en Figma y desarrollo del front-end]` |
+| Universidad | Corporación Universitaria Iberoamericana |
+| Programa | Ingeniería de Software |
+| Materia / módulo | Análisis y diseño de sistemas |
+| Periodo | Sexto semestre - 2026 |
+| Docente | Tatiana Cabrera |
+| Tipo de trabajo | En grupo de 3 personas |
+| Mi rol | Diseño UI/UX en Figma |
 
 El trabajo siguió este recorrido: **diseño en Figma** (UI Kit, vistas de computador y teléfono) → **implementación web** de esas pantallas con HTML, CSS y JavaScript.
 
@@ -77,4 +77,4 @@ Exporta los logos desde Figma y guárdalos en `assets/logos/` con estos nombres:
 
 ## Diseño
 
-Diseño original en Figma: `[pega aquí el enlace del archivo, si quieres mostrarlo]`
+Diseño original en Figma: https://www.figma.com/design/iRbDvTOs21IhIkH8ulmuST/PetCare?node-id=2207-1332&t=FBXnVXaOaA958m2W-
