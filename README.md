@@ -35,6 +35,8 @@ El trabajo siguió este recorrido: **diseño en Figma** (UI Kit, vistas de compu
 
 HTML5 · CSS3 (variables, grid, media queries) · JavaScript (ES6+, sin librerías) · `localStorage` para simular la base de datos · Figma para el diseño.
 
+La implementación web y la adaptación a teléfono se desarrollaron con asistencia de IA (Claude, de Anthropic) a partir de mi diseño en Figma. Yo definí las pantallas, requisitos, estilos y revisé el resultado.
+
 ## Cómo ejecutarlo
 
 No necesita instalación. Opciones:
