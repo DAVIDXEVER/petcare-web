@@ -14,7 +14,6 @@ Plataforma web para **encontrar y reservar servicios para mascotas**: veterinari
 | Programa | Ingeniería de Software |
 | Materia / módulo | Análisis y diseño de sistemas |
 | Periodo | Sexto semestre - 2026 |
-| Docente | Tatiana Cabrera |
 | Tipo de trabajo | En grupo de 3 personas |
 | Mi rol | Diseño UI/UX en Figma |
 
